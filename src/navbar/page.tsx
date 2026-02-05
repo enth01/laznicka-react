@@ -8,8 +8,8 @@ export default function Navbar() {
                 <li><a>Profile</a></li>
                 <li><a>Cart</a></li>
                 <li><a>Dashboard</a></li>
-                <li><a href="/login" >Login</a></li>
-                <li><a>Register</a></li>
+                <li><a href="/login">Login</a></li>
+                <li><a href="/register">Register</a></li>
                 <li><a>Logout</a></li>
                 </ul>
             </div>
